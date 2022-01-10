@@ -28,4 +28,4 @@ Pre-trained checkpoint of our model can be found from [google drive](https://dri
 
 3. more results
  
-   in the 'results' directory, you can see the newest results on SLP-10 dataset
+   In the 'results' directory, you can see the newest results on SLP-10 dataset and the results(three datasets and two backbones) on our literature.
