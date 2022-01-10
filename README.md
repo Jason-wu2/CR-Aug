@@ -26,4 +26,6 @@ Pre-trained checkpoint of our model can be found from [google drive](https://dri
    python CR-Aug.py --transforms=combine --lr=0.001
    ```
 
-   
+3. more results
+ 
+   in 'results' directory, you can see the newest results on SLP-10 dataset
